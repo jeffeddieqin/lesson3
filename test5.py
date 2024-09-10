@@ -1,0 +1,12 @@
+a=7
+b=3
+print(a+b)#7+3=10
+c=3.0
+print(a+c)#7+3.0=10.0
+d=6
+print(d/c)#6/3.0=2.0
+print(d/b)#6/3=2.0
+print(a/c)#7/3.0
+print(a/b)#7/3
+print(a//b)
+print(float(a))#强制类型转换
